@@ -1,5 +1,5 @@
-# React Todo App.
-
+ # React Todo App.
+<!--
 SVG for CheckBox: [mentioned in the video]
 
 ```html
@@ -35,4 +35,4 @@ and after that start the dev server.
 npm start
 ```
 
-Happy Coding! 🚀
+Happy Coding! 🚀 -->
