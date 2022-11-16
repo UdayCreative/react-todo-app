@@ -1,8 +1,8 @@
-![React Todo App](./TodoList.png)
-
 # React Todo App.
 
-A complete todo application with all features.
+![React Todo App](./TodoList.png)
+
+A complete Todo-App with all features.
 
 **live demo: [https://my-todoslist-app.netlify.app.app/](https://my-todoslist-app.netlify.app/)**
 
@@ -10,9 +10,9 @@ A complete todo application with all features.
 
 ## Project Description
 
-In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will to use `React.js` and to manage our states, we will use `Redux`. Also we will learn to make simple animations using `Framer Motion`. This will be a complete `beginner` friendly app. Hope you enjoy it.
+In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will to use `React.js` and to manage our states, we will use `Redux`. Also we will learn to make simple animations using `Framer Motion`.
 
-## What we are going to learn/use
+## What we are going to use
 
 - [React](https://reactjs.org/)
 - [React Redux](https://redux.js.org/)
@@ -26,10 +26,10 @@ In the project, we will be creating a Complete Todo Application with all feature
 - Basic ReactJs knowledge
 - Basic HTML, CSS knowledge
 
-After getting the starter files, you need to go the file directory and run
+Installing React-App
 
 ```shell
-npm install
+npm install create-react-app
 ```
 
 and after that start the dev server.
