@@ -62,9 +62,7 @@ function TodoItem({ todo }) {
             >
               {todo.title}
             </p>
-            <p className={styles.time}>
-              {format(new Date(), "p, dd/MM/yyyy")}
-            </p>
+            <p className={styles.time}>{format(new Date(), "p, dd/MM/yyyy")}</p>
           </div>
         </div>
         <div className={styles.todoActions}>

@@ -19,7 +19,6 @@ In the project, we will be creating a Complete Todo Application with all feature
 - [Framer Motion](https://framer.com/motion/)
 - [React icons](https://react-icons.netlify.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
-- More...
 
 ## Requirements
 

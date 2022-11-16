@@ -25,7 +25,7 @@ const boxVariant = {
   },
 };
 
-function CheckButton({ checked, handleCheck}) {
+function CheckButton({ checked, handleCheck }) {
   const pathLength = useMotionValue(0);
   const opacity = useTransform(pathLength, [0.05, 0.15], [0, 1]);
   return (

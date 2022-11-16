@@ -32,4 +32,4 @@ function SelectButton({ children, ...rest }) {
     </select>
   );
 }
-export {SelectButton}
+export { SelectButton };
