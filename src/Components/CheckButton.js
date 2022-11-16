@@ -42,7 +42,7 @@ function CheckButton({ checked, handleCheck}) {
         xmlns="http://www.w3.org/2000/svg"
       >
         <motion.path
-          variant={checkVariant}
+          variants={checkVariant}
           animate={"checked" ? "checked" : "unchecked"}
           style={{ pathLength, opacity }}
           fill="none"
