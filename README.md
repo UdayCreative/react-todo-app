@@ -1,6 +1,6 @@
-![React Todo App](./TodoList.png)
-
 # React Todo App.
+
+![React Todo App](./TodoList.png)
 
 A complete todo application with all features.
 
