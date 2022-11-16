@@ -4,7 +4,7 @@
 
 A complete todo application with all features.
 
-<!-- **live demo: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)** -->
+**live demo: [https://my-todoslist-app.netlify.app.app/](https://my-todoslist-app.netlify.app/)**
 
 ---
 
