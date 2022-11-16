@@ -12,7 +12,7 @@ A complete Todo-App with all features.
 
 In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will to use `React.js` and to manage our states, we will use `Redux`. Also we will learn to make simple animations using `Framer Motion`.
 
-## What we are going to learn/use
+## What we are going to use
 
 - [React](https://reactjs.org/)
 - [React Redux](https://redux.js.org/)
